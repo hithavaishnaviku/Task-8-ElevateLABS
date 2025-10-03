@@ -1,0 +1,6 @@
+Task 8: Sales Dashboard Insights
+
+1. Monthly Sales Trend: Sales peaked in December, showing strong year-end performance.
+2. Regional Performance: The West region had the highest sales, while the South region lagged behind.
+3. Category Contribution: Technology products contributed the most revenue, followed by Furniture.
+4. Profitability Note: Office Supplies had relatively lower sales but maintained consistent profits.
